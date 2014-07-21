@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sampleHoloCircle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="switch_theme">Switch theme</string>
+    <string name="random_color">random color</string>
+    <string name="warning">Warning</string>
+    <string name="alert_message">Value should not more then 100.</string>
+    <string name="alert_message_empty_edtxt">Please enter any number between 1 to 100</string>
+    <string name="circle_details">7,800/12,000</string>
+
+
+</resources>
